@@ -1,3 +1,10 @@
-@media (max-width:360px){
-    
+@media (max-width:575px){
+
+    .menu{
+    height: 30%;
+    }
+    .principal{
+        height: 70%;
+    }
+
 }
