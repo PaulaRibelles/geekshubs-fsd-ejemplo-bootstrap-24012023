@@ -1,0 +1,57 @@
+body{
+    background-color: bisque;
+}
+
+.navbar{
+    background-color: chocolate;
+    height: 10vh;
+}
+
+.main{
+    height: 60vh;
+}
+
+.row2{
+    height: 60vh;
+}
+
+.col-1{
+    background-color: crimson;
+}
+
+.col-11{
+    background-color: coral;
+}
+
+.row3{
+    height: 30vh;
+}
+
+.imagenes{
+    height: 30vh;
+}
+
+.box1{
+    background-color: cadetblue;
+}
+
+.box2{
+    background-color: rgb(47, 132, 135);
+}
+
+.box3{
+    background-color: rgb(12, 97, 100);
+}
+
+.box4{
+    background-color: rgb(1, 56, 58);
+}
+
+.col-3{
+    /* background-color: blueviolet; */
+}
+
+.footer{
+    background-color: rgb(33, 114, 13);
+    height: 8vh;
+}

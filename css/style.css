@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+
+.box{
+    background-color: chocolate;
+}
+
+.box-cont{
+    background-color: blueviolet;
+    height: 100%;
+}
+
+.box1{
+    background-color: rgb(247, 197, 162);    
+    height: 100%;
+}
+
+.box2{
+    background-color: rgb(250, 138, 57);    
+    height: 100%;
+}
+
+.box3{
+    background-color: rgb(148, 64, 3);    
+    height: 100%;
+}
